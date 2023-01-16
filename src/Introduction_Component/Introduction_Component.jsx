@@ -58,7 +58,7 @@ function Introduction_Component({introduction_text}) {
         <input
           name="email"
           id="email"
-          // type="text"
+          // type="email"
           placeholder="Email Address"
           ref={inputEmail}
         ></input>
